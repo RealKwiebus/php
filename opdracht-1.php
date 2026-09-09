@@ -6,9 +6,10 @@
   </head>
 
   <body>
-
-<a href="opdracht-1.php">Opdracht 1</a>
-<a href="opdracht-2.php">Opdracht 2</a>
-<a href="opdracht-3.php">Opdracht 3</a>
+  	
+    
+    <?php
+    phpinfo();
+    ?>
   </body>
 </html>
