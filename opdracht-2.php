@@ -9,8 +9,8 @@
   	
     
     <?php
-    $dagvdweek = date('D'); 
-    echo "Het is vandaag: ".$dagvdweek;
+      $dagvdweek = date('D'); 
+      echo "<h1>Het is vandaag: {$dagvdweek} </h1>";
     ?>
   </body>
 </html>
