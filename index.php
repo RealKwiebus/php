@@ -26,5 +26,7 @@
 <a href="opdracht20/weekdagen_for.php">Opdracht 20 for</a> 
 <a href="opdracht20/weekdagen_while.php">Opdracht 20 while</a>
 <a href="opdracht-21.php">Opdracht 21</a>
+<a href="opdracht22/selectie.php">Opdracht 22</a>
+<a href="opdracht22/selectieverwerking.php">Opdracht 22 verwerking</a>
 </body>
 </html>
